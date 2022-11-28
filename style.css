@@ -78,3 +78,8 @@ blockquote p {
 .left {
   grid-column: 6 / 12;
 }
+
+a {
+  color: rgb(0, 249, 162);
+  text-decoration: none;
+}

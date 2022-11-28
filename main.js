@@ -133,5 +133,5 @@ function animate() {
 
   renderer.render(scene, camera);
 }
-
+document.body.style.opacity = 1;
 animate();
